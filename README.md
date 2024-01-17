@@ -1,2 +1,2 @@
 # AcademicERP-Project
-Fyll Stack Project
+Full Stack Project
